@@ -16,7 +16,7 @@ const Description = ({ smallScreen }) => {
           <li>author: Alvin Zhang</li>
           <li>
             react source code:{' '}
-            <a href='#' target='_blank' rel='noreferrer'>
+            <a href='https://github.com/C-137-9527/React-Portfolio' target='_blank' rel='noreferrer'>
               Github Repo
             </a>
           </li>
